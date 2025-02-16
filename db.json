@@ -2,7 +2,7 @@
     "hotels": [
         {
             "id" : 1,
-            "name": "Bambara Hotel",
+            "name": "Bambi Hotel",
             "address": "1848 Budapest, Andrássy u. 10.",
             "rooms" : [
                 "Félpanziós Basic szoba",
@@ -13,7 +13,7 @@
         },
         {
             "id" : 2,
-            "name": "Hotel Shiraz",
+            "name": "Hotel Száraz",
             "address": "1848 Budapest, Andrássy u. 20.",
             "rooms" : [
                 "Basic szoba - Félpanzióval",
@@ -25,7 +25,7 @@
         },
         {
             "id" : 3,
-            "name": "Hotel Klub Tihany",
+            "name": "Hotel Echo Tihany",
             "address": "8300 Tihany, Sétány u. 13.",
             "rooms" : [
                 "Alap szoba I. - Félpanzióval",
