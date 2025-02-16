@@ -1,0 +1,39 @@
+{
+    "hotels": [
+        {
+            "id" : 1,
+            "name": "Bambara Hotel",
+            "address": "1848 Budapest, Andrássy u. 10.",
+            "rooms" : [
+                "Félpanziós Basic szoba",
+                "Teljes ellátás Basic szoba",
+                "Deluxe szoba I. - félpanzióval",
+                "Családi szoba I. - teljes ellátás"
+            ]
+        },
+        {
+            "id" : 2,
+            "name": "Hotel Shiraz",
+            "address": "1848 Budapest, Andrássy u. 20.",
+            "rooms" : [
+                "Basic szoba - Félpanzióval",
+                "Basic szoba, Teljes ellátással",
+                "Deluxe szoba I. - félpanzióval",
+                "Családi szoba I. - teljes ellátás",
+                "Családi szoba II. - teljes ellátás (komplett szolg.)"
+            ]
+        },
+        {
+            "id" : 3,
+            "name": "Hotel Klub Tihany",
+            "address": "8300 Tihany, Sétány u. 13.",
+            "rooms" : [
+                "Alap szoba I. - Félpanzióval",
+                "Alap szoba II., Teljes ellátással",
+                "Napfény szoba - félpanzióval",
+                "Partsétány szoba - teljes ellátás",
+                "Partsétány szoba II. - teljes ellátás (komplett szolg.)"
+            ]
+        }
+    ]
+}
