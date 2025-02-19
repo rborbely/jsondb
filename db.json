@@ -35,5 +35,19 @@
                 "Partsétány szoba II. - teljes ellátás (komplett szolg.)"
             ]
         }
+    ],
+    "cars": [
+        {
+            "brand": "Opel",
+            "serial": "Kadett 1.3",
+            "color" : "black",
+            "year" : "2001"
+        },
+        {
+            "brand": "Suzuki",
+            "serial": "Ignis 1.4",
+            "color" : "yellow",
+            "year" : "2012"
+        }
     ]
 }
